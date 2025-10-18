@@ -1,0 +1,6 @@
+:root{
+    --cor-verde: hsl(75, 94%, 57%);
+    --cor-fundo-carta: hsl(0, 0%, 12%);
+    --cor-fundo-link: hsl(0, 0%, 20%);
+    --cor-texto-claro: hsl(0, 0%, 100%);
+}
